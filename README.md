@@ -1,7 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto site de Salão de Cabeleleiro
 
-![image](https://github.com/user-attachments/assets/927c929f-fd0e-4646-b02f-98bc7fe12335)
-
+![image](https://github.com/user-attachments/assets/2b0de7c7-de93-4aaf-ba0a-7904d5a22f8e)
 
 ## Ferramentas utilizadas:
 
